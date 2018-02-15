@@ -1,0 +1,28 @@
+[
+  {
+    "vdc": {
+      "user": "",
+      "password": "",
+      "organization": "",
+      "vcloud_url": "",
+      "vdc_name": ""
+    },
+    "vapps": [
+      "vApp_Test",
+      
+    ]
+  },
+  {
+    "vdc": {
+      "user": "",
+      "password": "",
+      "organization": "",
+      "vcloud_url": "",
+      "vdc_name": ""
+    },
+    "vapps": [
+      "vApp_Test",
+      
+    ]
+  }
+]
